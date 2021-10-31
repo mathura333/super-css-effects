@@ -7,7 +7,7 @@
 
 <style>
 	a {
-		font-family: IBM Plex Sans;
+		font-family: Merriweather;
 font-size: 20px;
 font-style: normal;
 font-weight: 500;
@@ -23,7 +23,7 @@ text-align: center;
 	}
 
 	a:hover{
-			background: #FFDDB6;
+			background: linear-gradient(109.31deg, #fbd6ab 0%, #fdb572 100%);
 			color:#242640;
 	}
 </style>
